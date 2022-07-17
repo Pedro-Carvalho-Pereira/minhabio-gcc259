@@ -12,5 +12,9 @@
 - Html/css
 - Laravel
 
+**Avatar:**
+
+![avatar](./Image.png)
+
 
 
